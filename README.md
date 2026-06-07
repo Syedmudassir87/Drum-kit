@@ -1,2 +1,2 @@
-# Drum-kit
+# Drumkit-demo
 This is my first Git Repository.
